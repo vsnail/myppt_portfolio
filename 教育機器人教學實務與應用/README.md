@@ -8,7 +8,6 @@
 - LEGO Builder Studio
 
 #### 簡報圖片
-
 ![Imgur](https://imgur.com/lQuUKWZ.png)
 ![Imgur](https://imgur.com/HyBToRp.png)
 ![Imgur](https://imgur.com/dwDGfsI.png)
